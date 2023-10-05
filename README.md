@@ -8,4 +8,4 @@ To install tmux config
 git clone https://github.com/exorttrionis/my-tmux-config.git 
 ./tmux-config/install.sh 
 ```
-I use ctrl+space as default prefix
+I use ctrl+space as default prefix, and zsh as default shell.
